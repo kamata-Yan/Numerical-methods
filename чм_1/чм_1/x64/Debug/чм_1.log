@@ -1,0 +1,6 @@
+﻿  чм_1.cpp
+C:\Users\Lenovo\source\repos\чм_1\чм_1\чм_1.cpp(13,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\чм_1\чм_1\чм_1.cpp(14,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\чм_1\чм_1\чм_1.cpp(61,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\чм_1\чм_1\чм_1.cpp(62,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  чм_1.vcxproj -> C:\Users\Lenovo\source\repos\чм_1\x64\Debug\чм_1.exe
