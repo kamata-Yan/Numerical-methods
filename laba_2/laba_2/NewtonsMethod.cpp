@@ -25,11 +25,11 @@ double getD2(const vector<double>& x, const vector<double>& xKplus1) {
 }
 
 double function1(const double& x01, const double& x02) {
-    return x01 - x02 - 6*log(x01) - 1;
+    return x01 - x02 - 6*log10(x01) - 1;
 }
 
 double function2(const double& x01, const double& x02) {
-    return x01 - 3*x02 - 6*log(x02) - 2;
+    return x01 - 3*x02 - 6*log10(x02) - 2;
 }
 
 double J1Dx01(const double& x01, const double& x02) {
